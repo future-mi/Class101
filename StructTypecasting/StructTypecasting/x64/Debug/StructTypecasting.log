@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(4,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(12,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(25,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(26,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(27,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(35,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\class101\2023\StructTypecasting\StructTypecasting\main.cpp(37,9): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  StructTypecasting.vcxproj -> D:\class101\2023\StructTypecasting\x64\Debug\StructTypecasting.exe
