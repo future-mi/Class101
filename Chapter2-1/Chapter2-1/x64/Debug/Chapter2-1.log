@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\class101\2023\Chapter2-1\Chapter2-1\Source.cpp(56,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\class101\2023\Chapter2-1\Chapter2-1\Source.cpp(57,9): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Chapter2-1.vcxproj -> D:\class101\2023\Chapter2-1\x64\Debug\Chapter2-1.exe
